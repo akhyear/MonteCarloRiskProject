@@ -1,0 +1,20 @@
+MonteCarloRiskProject/
+│
+├── data/
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_distribution_fit.ipynb
+│   ├── 03_simulation_var_es.ipynb
+│   ├── 04_backtesting.ipynb
+│
+├── src/
+│   ├── simulate.py
+│   ├── risk_metrics.py
+│   ├── distributions.py
+│
+├── results/
+│   ├── plots/
+│   ├── tables/
+│
+├── README.md
+└── requirements.txt
