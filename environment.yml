@@ -1,0 +1,14 @@
+name: spy-risk-model
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - yfinance
+  - jupyterlab
+  - pip:
+      - seaborn
