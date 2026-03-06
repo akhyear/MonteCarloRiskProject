@@ -78,16 +78,6 @@ The modules are designed to be imported into a notebook or a main script.
 
 ---
 
-## Future Improvements
-
-- Rolling VaR
-- GARCH volatility modeling
-- EVT (Extreme Value Theory)
-- Multi-asset portfolio risk
-- Visualization dashboard
-
----
-
 ## Author
 
 Built as part of my quantitative finance learning journey.
